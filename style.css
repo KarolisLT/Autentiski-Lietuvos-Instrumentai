@@ -135,6 +135,16 @@
     {
         width: 420px;
     }
+    
+    #tarpas
+    {
+        margin-bottom: 700px;
+    }
+    
+    .videotarpas
+    {
+        margin-top: 150px;
+    }
 }
 
 @media (max-width: 500px) {
