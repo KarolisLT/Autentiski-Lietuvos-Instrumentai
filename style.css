@@ -154,6 +154,14 @@
     }
 }
 
+@media (max-width: 640px)
+{
+    video
+    {
+        width:  400px;
+    }
+}
+
 .skuduciai
 {
     font-weight: bold;
